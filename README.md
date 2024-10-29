@@ -8,5 +8,5 @@ This project focuses on developing and enhancing the capabilities of a TurtleBot
 
 ## Repository Structure
 
-- **scripts/**: This directory contains custom scripts written in Python (or other languages) to control the TurtleBot’s behavior, handle navigation tasks, and manage interactions.
+- **scripts/**: This directory contains custom scripts written in Python to control the TurtleBot’s behavior, handle navigation tasks, and manage interactions.
 - **worlds/**: This directory contains Gazebo `.world` files, defining different simulated environments for the TurtleBot to explore and interact within.
